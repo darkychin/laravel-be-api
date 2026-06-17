@@ -1,0 +1,10 @@
+{
+  "name": "grill-with-docs",
+  "version": "1.0.0",
+  "description": "Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (CONTEXT.md, ADRs) inline as decisions crystallise.",
+  "tags": ["planning", "documentation", "ddd", "adr", "context"],
+  "author": "Matt Pocock",
+  "references": [
+    "https://github.com/mattpocock/skills"
+  ]
+}
