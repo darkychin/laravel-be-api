@@ -1,0 +1,10 @@
+{
+  "name": "caveman",
+  "version": "1.0.0",
+  "description": "Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accuracy.",
+  "tags": ["brevity", "efficiency", "terse"],
+  "author": "JuliusBrussee",
+  "references": [
+    "https://github.com/JuliusBrussee/caveman"
+  ]
+}
