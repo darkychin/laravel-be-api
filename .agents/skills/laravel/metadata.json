@@ -1,0 +1,12 @@
+{
+  "name": "laravel",
+  "version": "1.0.0",
+  "description": "Standard guidelines for building modern Laravel 12 applications with Pest PHP, strong typing, and Laravel Pint.",
+  "tags": ["laravel", "php", "pest", "pint"],
+  "author": "Antigravity",
+  "references": [
+    "https://laravel.com/docs/12.x",
+    "https://pestphp.com/",
+    "https://github.com/laravel/pint"
+  ]
+}
